@@ -1,0 +1,17 @@
+p {
+    color: blue;
+}
+.Contenido .Cuerpo {
+    color: green;
+}
+.Cuerpo {
+    color: red;
+}
+.Cuerpo {
+    color:blueviolet !important;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
